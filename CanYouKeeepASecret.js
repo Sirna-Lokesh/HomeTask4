@@ -8,4 +8,4 @@ function createSecretHolder(secret) {
     return {
         setSecret, getSecret
     };
-}
+ }
